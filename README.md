@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hemanthjallela
 - 👀 I’m interested in learning new things what is happening in world
-- 🌱 I’m currently learning java,HTML,SQL.
+- 🌱 I’m currently learning java,SQL.
 - 💞️I’m looking to collaborate on projects related to Java, web development, and database management  
 - 📫 How to reach me:  
   - Email: hemanthjallela@gmail.com  
